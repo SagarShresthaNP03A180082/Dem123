@@ -1,9 +1,8 @@
 
 from django.contrib import admin
-from django.urls import path
-from FaceOfNepal import views
+from django.urls import path,include
 
 urlpatterns = [
-    path('Home/', views.index),
     path('admin/', admin.site.urls),
+    path('freelancer/',include('templates.urls'))
 ]
