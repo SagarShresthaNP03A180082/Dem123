@@ -2,4 +2,4 @@
 #Sagar Shrestha
 #Arun Shrestha
 #Sagar Thapa
-#Easwor Amgai
+#Ishwor Amgai
